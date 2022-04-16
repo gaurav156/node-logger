@@ -1,0 +1,5 @@
+node_modules/
+
+developmentLogs.log
+productionLogs.log
+youtubeLogs.log
